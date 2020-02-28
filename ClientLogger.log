@@ -1,0 +1,128 @@
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.159 REQUEST - PUT; KEY : key_0; VALUE : val_0
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.289 RESPONSE for PUT : status -200 message - Successfully stored
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.292 REQUEST - PUT; KEY : key_1; VALUE : val_1
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.298 RESPONSE for PUT : status -200 message - Successfully stored
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.304 REQUEST - PUT; KEY : key_2; VALUE : val_2
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.311 RESPONSE for PUT : status -200 message - Successfully stored
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.312 REQUEST - PUT; KEY : key_3; VALUE : val_3
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.319 RESPONSE for PUT : status -200 message - Successfully stored
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.324 REQUEST - PUT; KEY : key_4; VALUE : val_4
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.329 RESPONSE for PUT : status -200 message - Successfully stored
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.331 REQUEST - GET; KEY : key_0
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.357 RESPONSE for GET : status -200 message - val_0
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.361 REQUEST - GET; KEY : key_1
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.367 RESPONSE for GET : status -200 message - val_1
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.371 REQUEST - GET; KEY : key_2
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.377 RESPONSE for GET : status -200 message - val_2
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.381 REQUEST - GET; KEY : key_3
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.386 RESPONSE for GET : status -200 message - val_3
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.388 REQUEST - GET; KEY : key_4
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.392 RESPONSE for GET : status -200 message - val_4
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.394 REQUEST - DELETE; KEY : key_0
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.422 RESPONSE for DELETE : status -200 message - Successfully deleted!
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.424 REQUEST - DELETE; KEY : key_1
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.431 RESPONSE for DELETE : status -200 message - Successfully deleted!
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.432 REQUEST - DELETE; KEY : key_2
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.437 RESPONSE for DELETE : status -200 message - Successfully deleted!
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.440 REQUEST - DELETE; KEY : key_3
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.487 RESPONSE for DELETE : status -200 message - Successfully deleted!
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.498 REQUEST - DELETE; KEY : key_4
+Feb 27, 2020 6:30:11 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.561 RESPONSE for DELETE : status -200 message - Successfully deleted!
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.566 REQUEST - PUT; KEY : key_0; VALUE : val_0
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.687 RESPONSE for PUT : status -200 message - Successfully stored
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.689 REQUEST - PUT; KEY : key_1; VALUE : val_1
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.695 RESPONSE for PUT : status -200 message - Successfully stored
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.699 REQUEST - PUT; KEY : key_2; VALUE : val_2
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.706 RESPONSE for PUT : status -200 message - Successfully stored
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.708 REQUEST - PUT; KEY : key_3; VALUE : val_3
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.714 RESPONSE for PUT : status -200 message - Successfully stored
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.717 REQUEST - PUT; KEY : key_4; VALUE : val_4
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.725 RESPONSE for PUT : status -200 message - Successfully stored
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.726 REQUEST - GET; KEY : key_0
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.754 RESPONSE for GET : status -200 message - val_0
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.758 REQUEST - GET; KEY : key_1
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.775 RESPONSE for GET : status -200 message - val_1
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.777 REQUEST - GET; KEY : key_2
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.784 RESPONSE for GET : status -200 message - val_2
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.790 REQUEST - GET; KEY : key_3
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.797 RESPONSE for GET : status -200 message - val_3
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.799 REQUEST - GET; KEY : key_4
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.809 RESPONSE for GET : status -200 message - val_4
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.825 REQUEST - DELETE; KEY : key_0
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.978 RESPONSE for DELETE : status -200 message - Successfully deleted!
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.980 REQUEST - DELETE; KEY : key_1
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.986 RESPONSE for DELETE : status -200 message - Successfully deleted!
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.988 REQUEST - DELETE; KEY : key_2
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.993 RESPONSE for DELETE : status -200 message - Successfully deleted!
+Feb 27, 2020 8:51:51 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.995 REQUEST - DELETE; KEY : key_3
+Feb 27, 2020 8:51:52 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:52.001 RESPONSE for DELETE : status -200 message - Successfully deleted!
+Feb 27, 2020 8:51:52 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:52.002 REQUEST - DELETE; KEY : key_4
+Feb 27, 2020 8:51:52 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:51:52.010 RESPONSE for DELETE : status -200 message - Successfully deleted!
+Feb 27, 2020 8:52:06 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:52:06.780 REQUEST - PUT; KEY : some; VALUE : key
+Feb 27, 2020 8:52:06 PM org.example.client.ClientLogger logErrorMessage
+WARNING: 2020-02-27 20:52:06.789 Socket is closed by peer.
+Feb 27, 2020 8:52:18 PM org.example.client.ClientLogger logErrorMessage
+WARNING: 2020-02-27 20:52:18.007 Server unresponsive, trying again in 3s
+Feb 27, 2020 8:52:21 PM org.example.client.ClientLogger logInfoMessage
+INFO: 2020-02-27 20:52:21.074 REQUEST - PUT; KEY : key_0; VALUE : val_0

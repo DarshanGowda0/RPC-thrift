@@ -1,0 +1,124 @@
+Feb 27, 2020 6:30:06 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:06.885 Server starting at port-number:5000
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.274 REQUEST - PUT; KEY -key_0 VALUE -val_0 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.280 RESPONSE - PUT; statusCode -200 message - Successfully stored
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.294 REQUEST - PUT; KEY -key_1 VALUE -val_1 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.296 RESPONSE - PUT; statusCode -200 message - Successfully stored
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.306 REQUEST - PUT; KEY -key_2 VALUE -val_2 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.308 RESPONSE - PUT; statusCode -200 message - Successfully stored
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.314 REQUEST - PUT; KEY -key_3 VALUE -val_3 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.316 RESPONSE - PUT; statusCode -200 message - Successfully stored
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.326 REQUEST - PUT; KEY -key_4 VALUE -val_4 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.327 RESPONSE - PUT; statusCode -200 message - Successfully stored
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.351 REQUEST - GET; KEY -key_0 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.353 RESPONSE - GET; statusCode -200 message - val_0
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.363 REQUEST - GET; KEY -key_1 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.365 RESPONSE - GET; statusCode -200 message - val_1
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.373 REQUEST - GET; KEY -key_2 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.375 RESPONSE - GET; statusCode -200 message - val_2
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.383 REQUEST - GET; KEY -key_3 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.384 RESPONSE - GET; statusCode -200 message - val_3
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.389 REQUEST - GET; KEY -key_4 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.391 RESPONSE - GET; statusCode -200 message - val_4
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.417 REQUEST - DELETE; KEY -key_0 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.419 RESPONSE - DELETE; statusCode -200 message - Successfully deleted!
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.426 REQUEST - DELETE; KEY -key_1 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.429 RESPONSE - DELETE; statusCode -200 message - Successfully deleted!
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.434 REQUEST - DELETE; KEY -key_2 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.435 RESPONSE - DELETE; statusCode -200 message - Successfully deleted!
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.442 REQUEST - DELETE; KEY -key_3 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.447 RESPONSE - DELETE; statusCode -200 message - Successfully deleted!
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.538 REQUEST - DELETE; KEY -key_4 thread -14
+Feb 27, 2020 6:30:11 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 18:30:11.552 RESPONSE - DELETE; statusCode -200 message - Successfully deleted!
+Feb 27, 2020 8:51:45 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:45.982 Server starting at port-number:5000
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.671 REQUEST - PUT; KEY -key_0 VALUE -val_0 thread -14
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.678 RESPONSE - PUT; statusCode -200 message - Successfully stored
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.691 REQUEST - PUT; KEY -key_1 VALUE -val_1 thread -14
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.693 RESPONSE - PUT; statusCode -200 message - Successfully stored
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.701 REQUEST - PUT; KEY -key_2 VALUE -val_2 thread -14
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.703 RESPONSE - PUT; statusCode -200 message - Successfully stored
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.710 REQUEST - PUT; KEY -key_3 VALUE -val_3 thread -14
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.712 RESPONSE - PUT; statusCode -200 message - Successfully stored
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.720 REQUEST - PUT; KEY -key_4 VALUE -val_4 thread -14
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.722 RESPONSE - PUT; statusCode -200 message - Successfully stored
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.741 REQUEST - GET; KEY -key_0 thread -14
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.743 RESPONSE - GET; statusCode -200 message - val_0
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.766 REQUEST - GET; KEY -key_1 thread -14
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.772 RESPONSE - GET; statusCode -200 message - val_1
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.779 REQUEST - GET; KEY -key_2 thread -14
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.781 RESPONSE - GET; statusCode -200 message - val_2
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.792 REQUEST - GET; KEY -key_3 thread -14
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.793 RESPONSE - GET; statusCode -200 message - val_3
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.804 REQUEST - GET; KEY -key_4 thread -14
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.808 RESPONSE - GET; statusCode -200 message - val_4
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.918 REQUEST - DELETE; KEY -key_0 thread -14
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.921 RESPONSE - DELETE; statusCode -200 message - Successfully deleted!
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.982 REQUEST - DELETE; KEY -key_1 thread -14
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.983 RESPONSE - DELETE; statusCode -200 message - Successfully deleted!
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.990 REQUEST - DELETE; KEY -key_2 thread -14
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.991 RESPONSE - DELETE; statusCode -200 message - Successfully deleted!
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.997 REQUEST - DELETE; KEY -key_3 thread -14
+Feb 27, 2020 8:51:51 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:51.998 RESPONSE - DELETE; statusCode -200 message - Successfully deleted!
+Feb 27, 2020 8:51:52 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:52.004 REQUEST - DELETE; KEY -key_4 thread -14
+Feb 27, 2020 8:51:52 PM org.example.server.ServerLogger logInfoMessage
+INFO: 2020-02-27 20:51:52.006 RESPONSE - DELETE; statusCode -200 message - Successfully deleted!
